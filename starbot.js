@@ -11,8 +11,8 @@ const fs = require('fs'); // file-sytem package.
 // Bot Configs:
 const config = require(path.join(__dirname, 'config.json')); // Bot Config
 const {
-  token,
-  prefix,
+  token,NTU0Mzc4MzE4ODEyNjc2MDk2.XNU4sg.RdTuB7RWdV7n3P2shqm_uDb78rM
+  prefix,#
   ids
 } = config;
 // Clients:
